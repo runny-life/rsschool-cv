@@ -99,3 +99,14 @@ export function generatePassword(options: PasswordOptions): string {
 
 ---
 
+## Education
+
+**Synergy University** — Bachelor's Degree in Information Systems and Technology *2021–2026*
+
+---
+
+## English
+
+**A2 — Elementary**
+
+Currently improving English through technical documentation, courses and regular practice.
